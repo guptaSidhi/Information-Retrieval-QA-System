@@ -1,0 +1,127 @@
+[2025-04-20 12:43:50,992] 20 root - INFO - Data Loading Started...
+[2025-04-20 12:43:52,777] 30 root - INFO - Data Loaded Successfully!!
+[2025-04-20 12:43:54,432] 19 root - INFO - Downloading Gemini Embedding Model...
+[2025-04-20 12:43:54,898] 25 root - INFO - Embedding Model Downloaded Successfully!!
+[2025-04-20 12:43:54,898] 27 root - INFO - Making of VectorDatabase in Progress..
+[2025-04-20 12:44:03,894] 30 root - INFO - Local Storage made Successfully!!
+[2025-04-20 12:44:03,894] 32 root - INFO - Making a query engine
+[2025-04-20 12:44:39,982] 20 root - INFO - Data Loading Started...
+[2025-04-20 12:44:40,369] 30 root - INFO - Data Loaded Successfully!!
+[2025-04-20 12:44:42,066] 19 root - INFO - Downloading Gemini Embedding Model...
+[2025-04-20 12:44:42,083] 25 root - INFO - Embedding Model Downloaded Successfully!!
+[2025-04-20 12:44:42,083] 27 root - INFO - Making of VectorDatabase in Progress..
+[2025-04-20 12:44:51,656] 30 root - INFO - Local Storage made Successfully!!
+[2025-04-20 12:44:51,656] 32 root - INFO - Making a query engine
+[2025-04-20 12:45:10,402] 20 root - INFO - Data Loading Started...
+[2025-04-20 12:45:10,792] 30 root - INFO - Data Loaded Successfully!!
+[2025-04-20 12:45:12,296] 19 root - INFO - Downloading Gemini Embedding Model...
+[2025-04-20 12:45:12,315] 25 root - INFO - Embedding Model Downloaded Successfully!!
+[2025-04-20 12:45:12,315] 27 root - INFO - Making of VectorDatabase in Progress..
+[2025-04-20 12:45:21,151] 30 root - INFO - Local Storage made Successfully!!
+[2025-04-20 12:45:21,151] 32 root - INFO - Making a query engine
+[2025-04-20 12:45:35,933] 20 root - INFO - Data Loading Started...
+[2025-04-20 12:45:36,323] 30 root - INFO - Data Loaded Successfully!!
+[2025-04-20 12:45:37,792] 19 root - INFO - Downloading Gemini Embedding Model...
+[2025-04-20 12:45:37,803] 25 root - INFO - Embedding Model Downloaded Successfully!!
+[2025-04-20 12:45:37,803] 27 root - INFO - Making of VectorDatabase in Progress..
+[2025-04-20 12:45:47,287] 30 root - INFO - Local Storage made Successfully!!
+[2025-04-20 12:45:47,287] 32 root - INFO - Making a query engine
+[2025-04-20 12:46:11,254] 20 root - INFO - Data Loading Started...
+[2025-04-20 12:46:11,633] 30 root - INFO - Data Loaded Successfully!!
+[2025-04-20 12:46:12,241] 19 root - INFO - Downloading Gemini Embedding Model...
+[2025-04-20 12:46:12,248] 25 root - INFO - Embedding Model Downloaded Successfully!!
+[2025-04-20 12:46:12,248] 27 root - INFO - Making of VectorDatabase in Progress..
+[2025-04-20 12:46:21,803] 30 root - INFO - Local Storage made Successfully!!
+[2025-04-20 12:46:21,803] 32 root - INFO - Making a query engine
+[2025-04-20 12:46:44,269] 20 root - INFO - Data Loading Started...
+[2025-04-20 12:46:44,635] 30 root - INFO - Data Loaded Successfully!!
+[2025-04-20 12:46:46,099] 19 root - INFO - Downloading Gemini Embedding Model...
+[2025-04-20 12:46:46,099] 25 root - INFO - Embedding Model Downloaded Successfully!!
+[2025-04-20 12:46:46,099] 27 root - INFO - Making of VectorDatabase in Progress..
+[2025-04-20 12:46:55,112] 30 root - INFO - Local Storage made Successfully!!
+[2025-04-20 12:46:55,112] 32 root - INFO - Making a query engine
+[2025-04-20 12:47:36,725] 20 root - INFO - Data Loading Started...
+[2025-04-20 12:47:39,795] 30 root - INFO - Data Loaded Successfully!!
+[2025-04-20 12:47:41,278] 19 root - INFO - Downloading Gemini Embedding Model...
+[2025-04-20 12:47:41,290] 25 root - INFO - Embedding Model Downloaded Successfully!!
+[2025-04-20 12:47:41,290] 27 root - INFO - Making of VectorDatabase in Progress..
+[2025-04-20 12:48:10,608] 30 root - INFO - Local Storage made Successfully!!
+[2025-04-20 12:48:10,608] 32 root - INFO - Making a query engine
+[2025-04-20 12:48:22,919] 20 root - INFO - Data Loading Started...
+[2025-04-20 12:48:26,185] 30 root - INFO - Data Loaded Successfully!!
+[2025-04-20 12:48:27,745] 19 root - INFO - Downloading Gemini Embedding Model...
+[2025-04-20 12:48:27,755] 25 root - INFO - Embedding Model Downloaded Successfully!!
+[2025-04-20 12:48:27,755] 27 root - INFO - Making of VectorDatabase in Progress..
+[2025-04-20 12:48:56,724] 30 root - INFO - Local Storage made Successfully!!
+[2025-04-20 12:48:56,724] 32 root - INFO - Making a query engine
+[2025-04-20 12:49:11,268] 20 root - INFO - Data Loading Started...
+[2025-04-20 12:49:14,356] 30 root - INFO - Data Loaded Successfully!!
+[2025-04-20 12:49:15,886] 19 root - INFO - Downloading Gemini Embedding Model...
+[2025-04-20 12:49:15,888] 25 root - INFO - Embedding Model Downloaded Successfully!!
+[2025-04-20 12:49:15,888] 27 root - INFO - Making of VectorDatabase in Progress..
+[2025-04-20 12:49:45,071] 30 root - INFO - Local Storage made Successfully!!
+[2025-04-20 12:49:45,071] 32 root - INFO - Making a query engine
+[2025-04-20 12:50:13,152] 20 root - INFO - Data Loading Started...
+[2025-04-20 12:50:13,561] 30 root - INFO - Data Loaded Successfully!!
+[2025-04-20 12:50:15,242] 19 root - INFO - Downloading Gemini Embedding Model...
+[2025-04-20 12:50:15,253] 25 root - INFO - Embedding Model Downloaded Successfully!!
+[2025-04-20 12:50:15,253] 27 root - INFO - Making of VectorDatabase in Progress..
+[2025-04-20 12:50:17,402] 30 root - INFO - Local Storage made Successfully!!
+[2025-04-20 12:50:17,402] 32 root - INFO - Making a query engine
+[2025-04-20 12:50:48,671] 20 root - INFO - Data Loading Started...
+[2025-04-20 12:50:49,065] 30 root - INFO - Data Loaded Successfully!!
+[2025-04-20 12:50:49,684] 19 root - INFO - Downloading Gemini Embedding Model...
+[2025-04-20 12:50:49,684] 25 root - INFO - Embedding Model Downloaded Successfully!!
+[2025-04-20 12:50:49,684] 27 root - INFO - Making of VectorDatabase in Progress..
+[2025-04-20 12:50:51,784] 30 root - INFO - Local Storage made Successfully!!
+[2025-04-20 12:50:51,784] 32 root - INFO - Making a query engine
+[2025-04-20 12:51:34,823] 20 root - INFO - Data Loading Started...
+[2025-04-20 12:51:35,227] 30 root - INFO - Data Loaded Successfully!!
+[2025-04-20 12:51:36,782] 19 root - INFO - Downloading Gemini Embedding Model...
+[2025-04-20 12:51:36,793] 25 root - INFO - Embedding Model Downloaded Successfully!!
+[2025-04-20 12:51:36,793] 27 root - INFO - Making of VectorDatabase in Progress..
+[2025-04-20 12:51:38,931] 30 root - INFO - Local Storage made Successfully!!
+[2025-04-20 12:51:38,931] 32 root - INFO - Making a query engine
+[2025-04-20 12:52:28,228] 20 root - INFO - Data Loading Started...
+[2025-04-20 12:52:28,645] 30 root - INFO - Data Loaded Successfully!!
+[2025-04-20 12:52:30,372] 19 root - INFO - Downloading Gemini Embedding Model...
+[2025-04-20 12:52:30,389] 25 root - INFO - Embedding Model Downloaded Successfully!!
+[2025-04-20 12:52:30,389] 27 root - INFO - Making of VectorDatabase in Progress..
+[2025-04-20 12:52:32,554] 30 root - INFO - Local Storage made Successfully!!
+[2025-04-20 12:52:32,554] 32 root - INFO - Making a query engine
+[2025-04-20 12:52:39,013] 20 root - INFO - Data Loading Started...
+[2025-04-20 12:52:39,421] 30 root - INFO - Data Loaded Successfully!!
+[2025-04-20 12:52:40,881] 19 root - INFO - Downloading Gemini Embedding Model...
+[2025-04-20 12:52:40,886] 25 root - INFO - Embedding Model Downloaded Successfully!!
+[2025-04-20 12:52:40,886] 27 root - INFO - Making of VectorDatabase in Progress..
+[2025-04-20 12:52:43,013] 30 root - INFO - Local Storage made Successfully!!
+[2025-04-20 12:52:43,013] 32 root - INFO - Making a query engine
+[2025-04-20 12:53:15,999] 20 root - INFO - Data Loading Started...
+[2025-04-20 12:53:33,796] 20 root - INFO - Data Loading Started...
+[2025-04-20 12:53:33,858] 30 root - INFO - Data Loaded Successfully!!
+[2025-04-20 12:53:35,448] 19 root - INFO - Downloading Gemini Embedding Model...
+[2025-04-20 12:53:35,462] 25 root - INFO - Embedding Model Downloaded Successfully!!
+[2025-04-20 12:53:35,462] 27 root - INFO - Making of VectorDatabase in Progress..
+[2025-04-20 12:53:38,652] 30 root - INFO - Local Storage made Successfully!!
+[2025-04-20 12:53:38,652] 32 root - INFO - Making a query engine
+[2025-04-20 12:54:04,080] 20 root - INFO - Data Loading Started...
+[2025-04-20 12:54:04,139] 30 root - INFO - Data Loaded Successfully!!
+[2025-04-20 12:54:05,727] 19 root - INFO - Downloading Gemini Embedding Model...
+[2025-04-20 12:54:05,727] 25 root - INFO - Embedding Model Downloaded Successfully!!
+[2025-04-20 12:54:05,727] 27 root - INFO - Making of VectorDatabase in Progress..
+[2025-04-20 12:54:09,209] 30 root - INFO - Local Storage made Successfully!!
+[2025-04-20 12:54:09,209] 32 root - INFO - Making a query engine
+[2025-04-20 12:55:08,274] 20 root - INFO - Data Loading Started...
+[2025-04-20 12:55:08,441] 30 root - INFO - Data Loaded Successfully!!
+[2025-04-20 12:55:09,949] 19 root - INFO - Downloading Gemini Embedding Model...
+[2025-04-20 12:55:09,956] 25 root - INFO - Embedding Model Downloaded Successfully!!
+[2025-04-20 12:55:09,956] 27 root - INFO - Making of VectorDatabase in Progress..
+[2025-04-20 12:55:14,675] 30 root - INFO - Local Storage made Successfully!!
+[2025-04-20 12:55:14,676] 32 root - INFO - Making a query engine
+[2025-04-20 12:55:27,265] 20 root - INFO - Data Loading Started...
+[2025-04-20 12:55:27,425] 30 root - INFO - Data Loaded Successfully!!
+[2025-04-20 12:55:28,908] 19 root - INFO - Downloading Gemini Embedding Model...
+[2025-04-20 12:55:28,924] 25 root - INFO - Embedding Model Downloaded Successfully!!
+[2025-04-20 12:55:28,924] 27 root - INFO - Making of VectorDatabase in Progress..
+[2025-04-20 12:55:32,676] 30 root - INFO - Local Storage made Successfully!!
+[2025-04-20 12:55:32,676] 32 root - INFO - Making a query engine
